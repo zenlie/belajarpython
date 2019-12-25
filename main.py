@@ -197,9 +197,9 @@ test.fmi(2000)
 
 
 #absen34
-
-
-
+from kelas_2b import jenly
+jenly = jenly.Revert()
+jenly.Reup()
 
 
 import kelas
